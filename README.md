@@ -21,6 +21,17 @@
 - Un alt software care codeaza cu protocoale clasice de modem (dialup like) date
   https://github.com/kamalmostafa/minimodem
 
+## Spectral Encoding
+
+  Un prim challenge ar putea fi cu spectral encoding. Ori encodam text/etc direct, ori encodam un element care sa necesite o decodare ulterioara (QR Code, etc.)
+  
+- Un exemplu clasic, si altele mai putin
+  https://youtu.be/wSYAZnQmffg?t=5m28s
+  https://www.youtube.com/watch?v=UcBDSoVs42M
+
+- Informatii legate de procedeu si ceva coding 
+  http://www.ohmpie.com/imageencode/
+
 ## Blog
 
 - Un blog al unei tipe din finlanda care e `signals hacker` si care mi-a dat fatala. Sunt multe articole marfa si in older pages.
