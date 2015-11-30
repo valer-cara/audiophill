@@ -15,6 +15,9 @@
 
 - Un curs de signals cu gnuradio. interesant si cu exemple marfa de tot felu de encodings si cum sa le faci in GnuRadio Companion (GUI-ul pentru gnuradio block-based)
   https://www.ece.uvic.ca/~elec350/lab_manual/ar01s02s05.html
+
+
+
 ## Semnal Digital
 
 - Destul de basic si bare-bones dar cred ca nu strica de avut o referinta de cum functioneaza conversia AD/DA in mod normal    https://www.youtube.com/watch?v=cIQ9IXSUzuM&feature=youtu.be
